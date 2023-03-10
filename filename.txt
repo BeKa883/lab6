@@ -1,0 +1,5 @@
+Student [id=S01, name=Jonh Horstman, average=7.8]
+Student [id=S02, name=John Smith, average=8.5]
+Student [id=S03, name=Cays Horstman, average=9.6]
+Student [id=S04, name=David Beckham, average=8.0]
+Student [id=S05, name=Khanh Huynh, average=8.9]

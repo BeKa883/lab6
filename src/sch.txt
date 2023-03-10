@@ -1,0 +1,4 @@
+S01;Jonh Horstman; 7.8
+S02;John Smith; 8.5
+S03;Cays Horstman;9.6
+S04;David Beckham; 8.0
